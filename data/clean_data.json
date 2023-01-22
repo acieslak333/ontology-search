@@ -1,0 +1,5378 @@
+{
+    "FOODON:00001001": {
+        "id": "FOODON:00001001",
+        "name": "orange juice liquid",
+        "relations": {
+            "can_be": [
+                "FOODON:00001277"
+            ],
+            "is_a": [
+                "FOODON:03301103",
+                "FOODON:03430109"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001002": {
+        "id": "FOODON:00001002",
+        "name": "",
+        "relations": {
+            "can_be": [
+                "FOODON:00001180",
+                "FOODON:00001714",
+                "FOODON:00002373",
+                "FOODON:00002381",
+                "FOODON:00002454",
+                "FOODON:00002501",
+                "FOODON:00002645",
+                "FOODON:03311737"
+            ],
+            "is_a": [
+                "FOODON:00002403"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001003": {
+        "id": "FOODON:00001003",
+        "name": "fermented agave juice",
+        "relations": {
+            "is_a": [
+                "FOODON:00001103"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001004": {
+        "id": "FOODON:00001004",
+        "name": "fermenting sugar cane juice",
+        "relations": {
+            "is_a": [
+                "FOODON:00001097"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001005": {
+        "id": "FOODON:00001005",
+        "name": "fermenting elaeis palm sap",
+        "relations": {
+            "is_a": [
+                "FOODON:00001096"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001006": {
+        "id": "FOODON:00001006",
+        "name": "meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001010",
+                "FOODON:00001131",
+                "FOODON:00001132",
+                "FOODON:00001134",
+                "FOODON:03317170"
+            ],
+            "is_a": [
+                "FOODON:00001092"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001007": {
+        "id": "FOODON:00001007",
+        "name": "sausage",
+        "relations": {
+            "can_be": [
+                "FOODON:03315904"
+            ],
+            "is_a": [
+                "FOODON:00001010"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001008": {
+        "id": "FOODON:00001008",
+        "name": "liver paste",
+        "relations": {
+            "is_a": [
+                "FOODON:00002819",
+                "FOODON:03315925"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001009": {
+        "id": "FOODON:00001009",
+        "name": "hot dog",
+        "relations": {
+            "is_a": [
+                "FOODON:00001224"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001010": {
+        "id": "FOODON:00001010",
+        "name": "processed meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001007",
+                "FOODON:00001039",
+                "FOODON:00001241",
+                "FOODON:03315925"
+            ],
+            "is_a": [
+                "FOODON:00001006",
+                "FOODON:03311737"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001011": {
+        "id": "FOODON:00001011",
+        "name": "milk formula",
+        "relations": {
+            "is_a": [
+                "FOODON:00001091"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001013": {
+        "id": "FOODON:00001013",
+        "name": "cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001048",
+                "FOODON:00001065",
+                "FOODON:00001082",
+                "FOODON:00001124",
+                "FOODON:00001125",
+                "FOODON:00001126",
+                "FOODON:00001229"
+            ],
+            "is_a": [
+                "FOODON:00001256"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001014": {
+        "id": "FOODON:00001014",
+        "name": "yogurt",
+        "relations": {
+            "can_be": [
+                "FOODON:00001017"
+            ],
+            "is_a": [
+                "FOODON:00001053"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001015": {
+        "id": "FOODON:00001015",
+        "name": "plant",
+        "relations": {
+            "can_be": [
+                "FOODON:00001057",
+                "FOODON:00001142",
+                "FOODON:00001147",
+                "FOODON:00001165",
+                "FOODON:00001166",
+                "FOODON:00001169",
+                "FOODON:00001173",
+                "FOODON:00001174",
+                "FOODON:00001175",
+                "FOODON:00001242",
+                "FOODON:00001253",
+                "FOODON:00001261",
+                "FOODON:00001262",
+                "FOODON:00002423",
+                "FOODON:03460177"
+            ],
+            "is_a": [
+                "FOODON:00002381"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001016": {
+        "id": "FOODON:00001016",
+        "name": "cabbage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001024"
+            ],
+            "is_a": [
+                "FOODON:00001171",
+                "FOODON:00003341"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001017": {
+        "id": "FOODON:00001017",
+        "name": "commercial yogurt",
+        "relations": {
+            "is_a": [
+                "FOODON:00001014"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001019": {
+        "id": "FOODON:00001019",
+        "name": "wort",
+        "relations": {
+            "can_be": [
+                "FOODON:00001020"
+            ],
+            "is_a": [
+                "FOODON:00001102"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001020": {
+        "id": "FOODON:00001020",
+        "name": "beer wort",
+        "relations": {
+            "can_be": [
+                "FOODON:00001021"
+            ],
+            "is_a": [
+                "FOODON:00001019"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001021": {
+        "id": "FOODON:00001021",
+        "name": "acifified beer wort",
+        "relations": {
+            "is_a": [
+                "FOODON:00001020"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001023": {
+        "id": "FOODON:00001023",
+        "name": "mammalian milk butter",
+        "relations": {
+            "is_a": [
+                "FOODON:00001243",
+                "FOODON:03315150"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001024": {
+        "id": "FOODON:00001024",
+        "name": "pickled cabbage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001016",
+                "FOODON:00001182"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001025": {
+        "id": "FOODON:00001025",
+        "name": "camembert cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001026": {
+        "id": "FOODON:00001026",
+        "name": "obsolete cane sugar",
+        "relations": {},
+        "item": true
+    },
+    "FOODON:00001027": {
+        "id": "FOODON:00001027",
+        "name": "cheddar cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001035"
+            ],
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001028": {
+        "id": "FOODON:00001028",
+        "name": "brie cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001029": {
+        "id": "FOODON:00001029",
+        "name": "gouda cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001031": {
+        "id": "FOODON:00001031",
+        "name": "gorgonzola cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001065",
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001032": {
+        "id": "FOODON:00001032",
+        "name": "swiss cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001033": {
+        "id": "FOODON:00001033",
+        "name": "emmenthal cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001035": {
+        "id": "FOODON:00001035",
+        "name": "new zealand cheddar cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001027"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001036": {
+        "id": "FOODON:00001036",
+        "name": "pont ieveque cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001037": {
+        "id": "FOODON:00001037",
+        "name": "vacherin mont dor cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00002252"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001038": {
+        "id": "FOODON:00001038",
+        "name": "pork meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001049",
+                "FOODON:00001241",
+                "FOODON:00002301"
+            ],
+            "is_a": [
+                "FOODON:00002663"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001039": {
+        "id": "FOODON:00001039",
+        "name": "cured meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001225",
+                "FOODON:00001696",
+                "FOODON:00002301"
+            ],
+            "is_a": [
+                "FOODON:00001010"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001040": {
+        "id": "FOODON:00001040",
+        "name": "chicken meat",
+        "relations": {
+            "is_a": [
+                "FOODON:00001131"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001041": {
+        "id": "FOODON:00001041",
+        "name": "beef",
+        "relations": {
+            "can_be": [
+                "FOODON:00001282",
+                "FOODON:00001696"
+            ],
+            "is_a": [
+                "FOODON:00001134"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001045": {
+        "id": "FOODON:00001045",
+        "name": "ice cream",
+        "relations": {
+            "is_a": [
+                "FOODON:00001149",
+                "FOODON:00001257",
+                "FOODON:00001878"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001046": {
+        "id": "FOODON:00001046",
+        "name": "sea",
+        "relations": {
+            "can_be": [
+                "FOODON:00001055",
+                "FOODON:00001293"
+            ],
+            "is_a": [
+                "FOODON:00002381"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001047": {
+        "id": "FOODON:00001047",
+        "name": "obsolete jeotgal",
+        "relations": {},
+        "item": true
+    },
+    "FOODON:00001048": {
+        "id": "FOODON:00001048",
+        "name": "meshanger cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001013"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001049": {
+        "id": "FOODON:00001049",
+        "name": "pork chop",
+        "relations": {
+            "is_a": [
+                "FOODON:00001038"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001050": {
+        "id": "FOODON:00001050",
+        "name": "tempeh",
+        "relations": {
+            "is_a": [
+                "FOODON:00001078"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001051": {
+        "id": "FOODON:00001051",
+        "name": "fermented rice beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001052",
+                "FOODON:00001060",
+                "FOODON:00001076",
+                "FOODON:00001080"
+            ],
+            "is_a": [
+                "FOODON:00001102"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001052": {
+        "id": "FOODON:00001052",
+        "name": "amasake",
+        "relations": {
+            "is_a": [
+                "FOODON:00001051"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001053": {
+        "id": "FOODON:00001053",
+        "name": "fermented dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001014",
+                "FOODON:03303909"
+            ],
+            "is_a": [
+                "FOODON:00001256",
+                "FOODON:00001258"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001054": {
+        "id": "FOODON:00001054",
+        "name": "fermented fish or sea",
+        "relations": {
+            "is_a": [
+                "FOODON:00001055",
+                "FOODON:00001258"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001055": {
+        "id": "FOODON:00001055",
+        "name": "sea water fish",
+        "relations": {
+            "can_be": [
+                "FOODON:00001054",
+                "FOODON:00001104"
+            ],
+            "is_a": [
+                "FOODON:00001046",
+                "FOODON:03315173"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001056": {
+        "id": "FOODON:00001056",
+        "name": "flour",
+        "relations": {
+            "can_be": [
+                "FOODON:00001089",
+                "FOODON:00001210",
+                "FOODON:00001632"
+            ],
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001057": {
+        "id": "FOODON:00001057",
+        "name": "plant fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001058",
+                "FOODON:00001140",
+                "FOODON:00001150",
+                "FOODON:00001151",
+                "FOODON:00001158",
+                "FOODON:00001163",
+                "FOODON:00001170",
+                "FOODON:00001891",
+                "FOODON:00002141"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001058": {
+        "id": "FOODON:00001058",
+        "name": "fruit extract",
+        "relations": {
+            "can_be": [
+                "FOODON:00001160",
+                "FOODON:00001161",
+                "FOODON:00001162"
+            ],
+            "is_a": [
+                "FOODON:00001057"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001059": {
+        "id": "FOODON:00001059",
+        "name": "apple juice",
+        "relations": {
+            "is_a": [
+                "FOODON:00001140",
+                "FOODON:00001611"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001060": {
+        "id": "FOODON:00001060",
+        "name": "awamori",
+        "relations": {
+            "is_a": [
+                "FOODON:00001051"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001061": {
+        "id": "FOODON:00001061",
+        "name": "bacon",
+        "relations": {
+            "is_a": [
+                "FOODON:00001241"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001062": {
+        "id": "FOODON:00001062",
+        "name": "fermented millet",
+        "relations": {
+            "can_be": [
+                "FOODON:00001063"
+            ],
+            "is_a": [
+                "FOODON:00001102"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001063": {
+        "id": "FOODON:00001063",
+        "name": "millet beer",
+        "relations": {
+            "is_a": [
+                "FOODON:00001062"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001064": {
+        "id": "FOODON:00001064",
+        "name": "bottled beer",
+        "relations": {
+            "is_a": [
+                "FOODON:00001260"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001065": {
+        "id": "FOODON:00001065",
+        "name": "blue cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001031"
+            ],
+            "is_a": [
+                "FOODON:00001013"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001067": {
+        "id": "FOODON:00001067",
+        "name": "buttermilk",
+        "relations": {
+            "is_a": [
+                "FOODON:00001107"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001069": {
+        "id": "FOODON:00001069",
+        "name": "fermented fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001159"
+            ],
+            "is_a": [
+                "FOODON:00001258"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001070": {
+        "id": "FOODON:00001070",
+        "name": "miso",
+        "relations": {
+            "is_a": [
+                "FOODON:00001078"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001071": {
+        "id": "FOODON:00001071",
+        "name": "grape must",
+        "relations": {
+            "is_a": [
+                "FOODON:00001101",
+                "FOODON:00001162"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001073": {
+        "id": "FOODON:00001073",
+        "name": "vinegar",
+        "relations": {
+            "can_be": [
+                "FOODON:00001074",
+                "FOODON:00001613"
+            ],
+            "is_a": [
+                "FOODON:00001133",
+                "FOODON:00001258"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001074": {
+        "id": "FOODON:00001074",
+        "name": "barley malt vinegar",
+        "relations": {
+            "is_a": [
+                "FOODON:00001073",
+                "FOODON:00001191"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001075": {
+        "id": "FOODON:00001075",
+        "name": "mammalian milk nonfat dry",
+        "relations": {
+            "is_a": [
+                "FOODON:03315150"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001076": {
+        "id": "FOODON:00001076",
+        "name": "sake",
+        "relations": {
+            "is_a": [
+                "FOODON:00001051"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001077": {
+        "id": "FOODON:00001077",
+        "name": "salt pork meat",
+        "relations": {
+            "is_a": [
+                "FOODON:00002301"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001078": {
+        "id": "FOODON:00001078",
+        "name": "fermented soybean",
+        "relations": {
+            "can_be": [
+                "FOODON:00001050",
+                "FOODON:00001070",
+                "FOODON:00001235"
+            ],
+            "is_a": [
+                "FOODON:00002266",
+                "FOODON:03310006"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001079": {
+        "id": "FOODON:00001079",
+        "name": "pickled",
+        "relations": {
+            "can_be": [
+                "FOODON:00002333"
+            ],
+            "is_a": [
+                "FOODON:00002645"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001080": {
+        "id": "FOODON:00001080",
+        "name": "tape kefan",
+        "relations": {
+            "is_a": [
+                "FOODON:00001051"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001081": {
+        "id": "FOODON:00001081",
+        "name": "bondon cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001082": {
+        "id": "FOODON:00001082",
+        "name": "bitter cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001013"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001083": {
+        "id": "FOODON:00001083",
+        "name": "sugar condiment",
+        "relations": {
+            "can_be": [
+                "FOODON:03420156"
+            ],
+            "is_a": [
+                "FOODON:00001133"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001086": {
+        "id": "FOODON:00001086",
+        "name": "kefir",
+        "relations": {
+            "is_a": [
+                "FOODON:03303909"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001087": {
+        "id": "FOODON:00001087",
+        "name": "vegetable oil",
+        "relations": {
+            "can_be": [
+                "FOODON:00001233",
+                "FOODON:03420307"
+            ],
+            "is_a": [
+                "FOODON:00001174",
+                "FOODON:03310387"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001088": {
+        "id": "FOODON:00001088",
+        "name": "flaxseed oil",
+        "relations": {
+            "is_a": [
+                "FOODON:00001859",
+                "FOODON:03420307"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001089": {
+        "id": "FOODON:00001089",
+        "name": "corn flour",
+        "relations": {
+            "is_a": [
+                "FOODON:00001056",
+                "FOODON:00001142"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001090": {
+        "id": "FOODON:00001090",
+        "name": "sour milk beverage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001217"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001091": {
+        "id": "FOODON:00001091",
+        "name": "dried milk",
+        "relations": {
+            "can_be": [
+                "FOODON:00001011"
+            ],
+            "is_a": [
+                "FOODON:00001257",
+                "FOODON:03307539"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001092": {
+        "id": "FOODON:00001092",
+        "name": "vertebrate animal",
+        "relations": {
+            "can_be": [
+                "FOODON:00001006",
+                "FOODON:00001243",
+                "FOODON:00001248",
+                "FOODON:00001251",
+                "FOODON:00001252",
+                "FOODON:00001256",
+                "FOODON:00001274",
+                "FOODON:03302001"
+            ],
+            "is_a": [
+                "FOODON:00002381"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001093": {
+        "id": "FOODON:00001093",
+        "name": "cereal grain",
+        "relations": {
+            "can_be": [
+                "FOODON:00001056",
+                "FOODON:00001141",
+                "FOODON:00001185",
+                "FOODON:00001186",
+                "FOODON:00001187",
+                "FOODON:00001189",
+                "FOODON:00001190",
+                "FOODON:00001191",
+                "FOODON:00001192",
+                "FOODON:00002038"
+            ],
+            "is_a": [
+                "FOODON:00001173"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001094": {
+        "id": "FOODON:00001094",
+        "name": "fermented beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001254",
+                "FOODON:00002364"
+            ],
+            "is_a": [
+                "FOODON:00001258",
+                "FOODON:03301977"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001095": {
+        "id": "FOODON:00001095",
+        "name": "fermented grape beverage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001101",
+                "FOODON:00001254"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001096": {
+        "id": "FOODON:00001096",
+        "name": "fermented elaeis palm beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001005"
+            ],
+            "is_a": [
+                "FOODON:00001254"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001097": {
+        "id": "FOODON:00001097",
+        "name": "fermented sugar cane beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001004"
+            ],
+            "is_a": [
+                "FOODON:00001254"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001098": {
+        "id": "FOODON:00001098",
+        "name": "fermented apple beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001276"
+            ],
+            "is_a": [
+                "FOODON:00001099",
+                "FOODON:00001159"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001099": {
+        "id": "FOODON:00001099",
+        "name": "apple beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001098"
+            ],
+            "is_a": [
+                "FOODON:00001157"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001100": {
+        "id": "FOODON:00001100",
+        "name": "orange fruit beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:03301103"
+            ],
+            "is_a": [
+                "FOODON:00001156",
+                "FOODON:00002071"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001101": {
+        "id": "FOODON:00001101",
+        "name": "grape beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001071",
+                "FOODON:00001095"
+            ],
+            "is_a": [
+                "FOODON:00001170"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001102": {
+        "id": "FOODON:00001102",
+        "name": "fermented grain beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001019",
+                "FOODON:00001051",
+                "FOODON:00001062",
+                "FOODON:00001135",
+                "FOODON:00001260"
+            ],
+            "is_a": [
+                "FOODON:00001254"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001103": {
+        "id": "FOODON:00001103",
+        "name": "fermented agave beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001003"
+            ],
+            "is_a": [
+                "FOODON:00001254",
+                "FOODON:00002423"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001104": {
+        "id": "FOODON:00001104",
+        "name": "sea water fish egg",
+        "relations": {
+            "is_a": [
+                "FOODON:00001055",
+                "FOODON:00001250"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001105": {
+        "id": "FOODON:00001105",
+        "name": "avian egg",
+        "relations": {
+            "can_be": [
+                "FOODON:00001275"
+            ],
+            "is_a": [
+                "FOODON:00001251",
+                "FOODON:00001274"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001106": {
+        "id": "FOODON:00001106",
+        "name": "camelid dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001266"
+            ],
+            "is_a": [
+                "FOODON:00001256"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001107": {
+        "id": "FOODON:00001107",
+        "name": "bovine dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001067",
+                "FOODON:00001118"
+            ],
+            "is_a": [
+                "FOODON:00001256"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001111": {
+        "id": "FOODON:00001111",
+        "name": "equine dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001114"
+            ],
+            "is_a": [
+                "FOODON:00001256"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001114": {
+        "id": "FOODON:00001114",
+        "name": "zebra dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001272"
+            ],
+            "is_a": [
+                "FOODON:00001111"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001118": {
+        "id": "FOODON:00001118",
+        "name": "cattle dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001771"
+            ],
+            "is_a": [
+                "FOODON:00001107"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001120": {
+        "id": "FOODON:00001120",
+        "name": "camelid milk beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001266"
+            ],
+            "is_a": [
+                "FOODON:00001217"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001121": {
+        "id": "FOODON:00001121",
+        "name": "equine milk beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001272"
+            ],
+            "is_a": [
+                "FOODON:00001217"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001124": {
+        "id": "FOODON:00001124",
+        "name": "caprine cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001129"
+            ],
+            "is_a": [
+                "FOODON:00001013"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001125": {
+        "id": "FOODON:00001125",
+        "name": "ovine cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001130"
+            ],
+            "is_a": [
+                "FOODON:00001013"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001126": {
+        "id": "FOODON:00001126",
+        "name": "bovine cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001127"
+            ],
+            "is_a": [
+                "FOODON:00001013"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001127": {
+        "id": "FOODON:00001127",
+        "name": "cow milk cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001025",
+                "FOODON:00001027",
+                "FOODON:00001028",
+                "FOODON:00001029",
+                "FOODON:00001031",
+                "FOODON:00001032",
+                "FOODON:00001033",
+                "FOODON:00001036",
+                "FOODON:00001081",
+                "FOODON:00001128",
+                "FOODON:00002252"
+            ],
+            "is_a": [
+                "FOODON:00001126",
+                "FOODON:00001771"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001128": {
+        "id": "FOODON:00001128",
+        "name": "limburger cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001129": {
+        "id": "FOODON:00001129",
+        "name": "goat milk cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001294"
+            ],
+            "is_a": [
+                "FOODON:00001124"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001130": {
+        "id": "FOODON:00001130",
+        "name": "sheep milk cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001295",
+                "FOODON:00001296"
+            ],
+            "is_a": [
+                "FOODON:00001125"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001131": {
+        "id": "FOODON:00001131",
+        "name": "poultry meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001040",
+                "FOODON:00001284",
+                "FOODON:00001285",
+                "FOODON:00001286"
+            ],
+            "is_a": [
+                "FOODON:00001006",
+                "FOODON:00001283"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001132": {
+        "id": "FOODON:00001132",
+        "name": "swine",
+        "relations": {
+            "can_be": [
+                "FOODON:00002663"
+            ],
+            "is_a": [
+                "FOODON:00001006"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001133": {
+        "id": "FOODON:00001133",
+        "name": "condiment",
+        "relations": {
+            "can_be": [
+                "FOODON:00001073",
+                "FOODON:00001083",
+                "FOODON:00001242",
+                "FOODON:00001290",
+                "FOODON:00002262",
+                "FOODON:00002300"
+            ],
+            "is_a": [
+                "FOODON:00001714"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001134": {
+        "id": "FOODON:00001134",
+        "name": "bovine meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001041"
+            ],
+            "is_a": [
+                "FOODON:00001006"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001135": {
+        "id": "FOODON:00001135",
+        "name": "distilled fermented grain beverage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001102",
+                "FOODON:00001136"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001136": {
+        "id": "FOODON:00001136",
+        "name": "distilled fermented beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001135"
+            ],
+            "is_a": [
+                "FOODON:00001254"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001137": {
+        "id": "FOODON:00001137",
+        "name": "obsolete soya",
+        "relations": {},
+        "item": true
+    },
+    "FOODON:00001138": {
+        "id": "FOODON:00001138",
+        "name": "tea based beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001245"
+            ],
+            "is_a": [
+                "FOODON:00001255",
+                "FOODON:00002275"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001139": {
+        "id": "FOODON:00001139",
+        "name": "coffee based beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001244"
+            ],
+            "is_a": [
+                "FOODON:00001255",
+                "FOODON:00002275"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001140": {
+        "id": "FOODON:00001140",
+        "name": "fruit juice",
+        "relations": {
+            "can_be": [
+                "FOODON:00001059",
+                "FOODON:00001156",
+                "FOODON:00001157"
+            ],
+            "is_a": [
+                "FOODON:00001057",
+                "FOODON:00001255",
+                "FOODON:03315552"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001141": {
+        "id": "FOODON:00001141",
+        "name": "wheat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001210",
+                "FOODON:00001211"
+            ],
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001142": {
+        "id": "FOODON:00001142",
+        "name": "maize corn",
+        "relations": {
+            "can_be": [
+                "FOODON:00001089",
+                "FOODON:00001765"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001146": {
+        "id": "FOODON:00001146",
+        "name": "solanaceous root",
+        "relations": {
+            "can_be": [
+                "FOODON:00001148"
+            ],
+            "is_a": [
+                "FOODON:00001147",
+                "FOODON:00001165"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001147": {
+        "id": "FOODON:00001147",
+        "name": "plant root",
+        "relations": {
+            "can_be": [
+                "FOODON:00001146"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001148": {
+        "id": "FOODON:00001148",
+        "name": "potato",
+        "relations": {
+            "is_a": [
+                "FOODON:00001146"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001149": {
+        "id": "FOODON:00001149",
+        "name": "confectionery",
+        "relations": {
+            "can_be": [
+                "FOODON:00001045",
+                "FOODON:00001214",
+                "FOODON:00001280"
+            ],
+            "is_a": [
+                "FOODON:00002373"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001150": {
+        "id": "FOODON:00001150",
+        "name": "cucurbit fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00002029"
+            ],
+            "is_a": [
+                "FOODON:00001057"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001151": {
+        "id": "FOODON:00001151",
+        "name": "citrus fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001156",
+                "FOODON:00001161",
+                "FOODON:00002071"
+            ],
+            "is_a": [
+                "FOODON:00001057"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001152": {
+        "id": "FOODON:00001152",
+        "name": "melon fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001153",
+                "FOODON:00001154"
+            ],
+            "is_a": [
+                "FOODON:00002029"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001153": {
+        "id": "FOODON:00001153",
+        "name": "muskmelon cucumis melo fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001288"
+            ],
+            "is_a": [
+                "FOODON:00001152"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001154": {
+        "id": "FOODON:00001154",
+        "name": "citrullus lanatus fruit",
+        "relations": {
+            "is_a": [
+                "FOODON:00001152"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001155": {
+        "id": "FOODON:00001155",
+        "name": "watermelon plant",
+        "relations": {
+            "is_a": [
+                "FOODON:03411283"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001156": {
+        "id": "FOODON:00001156",
+        "name": "citrus fruit juice",
+        "relations": {
+            "can_be": [
+                "FOODON:00001100"
+            ],
+            "is_a": [
+                "FOODON:00001140",
+                "FOODON:00001151"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001157": {
+        "id": "FOODON:00001157",
+        "name": "pomaceous fruit juice beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001099"
+            ],
+            "is_a": [
+                "FOODON:00001140"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001158": {
+        "id": "FOODON:00001158",
+        "name": "pomaceous fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001160",
+                "FOODON:00001611"
+            ],
+            "is_a": [
+                "FOODON:00001057"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001159": {
+        "id": "FOODON:00001159",
+        "name": "fermented pomaceous fruit beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001098"
+            ],
+            "is_a": [
+                "FOODON:00001069",
+                "FOODON:00001160",
+                "FOODON:00001254"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001160": {
+        "id": "FOODON:00001160",
+        "name": "pomaceous fruit extract",
+        "relations": {
+            "can_be": [
+                "FOODON:00001159"
+            ],
+            "is_a": [
+                "FOODON:00001058",
+                "FOODON:00001158"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001161": {
+        "id": "FOODON:00001161",
+        "name": "citrus fruit extract",
+        "relations": {
+            "is_a": [
+                "FOODON:00001058",
+                "FOODON:00001151"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001162": {
+        "id": "FOODON:00001162",
+        "name": "grape extract",
+        "relations": {
+            "can_be": [
+                "FOODON:00001071"
+            ],
+            "is_a": [
+                "FOODON:00001058",
+                "FOODON:00001170"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001163": {
+        "id": "FOODON:00001163",
+        "name": "solanaceous fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001164"
+            ],
+            "is_a": [
+                "FOODON:00001057",
+                "FOODON:00001165"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001164": {
+        "id": "FOODON:00001164",
+        "name": "tomato",
+        "relations": {
+            "is_a": [
+                "FOODON:00001163",
+                "FOODON:00002141"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001165": {
+        "id": "FOODON:00001165",
+        "name": "solanaceous",
+        "relations": {
+            "can_be": [
+                "FOODON:00001146",
+                "FOODON:00001163"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001166": {
+        "id": "FOODON:00001166",
+        "name": "plant inflorescence",
+        "relations": {
+            "can_be": [
+                "FOODON:00001171"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001168": {
+        "id": "FOODON:00001168",
+        "name": "obsolete leguminous",
+        "relations": {},
+        "item": true
+    },
+    "FOODON:00001169": {
+        "id": "FOODON:00001169",
+        "name": "cruciferous",
+        "relations": {
+            "can_be": [
+                "FOODON:00001171",
+                "FOODON:00001182",
+                "FOODON:00003341"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001170": {
+        "id": "FOODON:00001170",
+        "name": "grape fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001101",
+                "FOODON:00001162"
+            ],
+            "is_a": [
+                "FOODON:00001057"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001171": {
+        "id": "FOODON:00001171",
+        "name": "cruciferous inflorescence",
+        "relations": {
+            "can_be": [
+                "FOODON:00001016"
+            ],
+            "is_a": [
+                "FOODON:00001166",
+                "FOODON:00001169"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001172": {
+        "id": "FOODON:00001172",
+        "name": "nut",
+        "relations": {
+            "is_a": [
+                "FOODON:00001262"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001173": {
+        "id": "FOODON:00001173",
+        "name": "plant seed",
+        "relations": {
+            "can_be": [
+                "FOODON:00001093",
+                "FOODON:00001215",
+                "FOODON:00001859",
+                "FOODON:00002151",
+                "FOODON:00002153"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001174": {
+        "id": "FOODON:00001174",
+        "name": "plant lipid",
+        "relations": {
+            "can_be": [
+                "FOODON:00001087",
+                "FOODON:00002139",
+                "FOODON:03460263"
+            ],
+            "is_a": [
+                "FOODON:00001015",
+                "FOODON:00002664"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001175": {
+        "id": "FOODON:00001175",
+        "name": "plant stem",
+        "relations": {
+            "can_be": [
+                "FOODON:00002156"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001176": {
+        "id": "FOODON:00001176",
+        "name": "invertebrate animal",
+        "relations": {
+            "can_be": [
+                "FOODON:00001177",
+                "FOODON:00001293"
+            ],
+            "is_a": [
+                "FOODON:00002381"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001177": {
+        "id": "FOODON:00001177",
+        "name": "insect",
+        "relations": {
+            "can_be": [
+                "FOODON:00001218"
+            ],
+            "is_a": [
+                "FOODON:00001176"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001178": {
+        "id": "FOODON:00001178",
+        "name": "honey",
+        "relations": {
+            "can_be": [
+                "FOODON:00002450"
+            ],
+            "is_a": [
+                "FOODON:00001218",
+                "FOODON:00002300"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001180": {
+        "id": "FOODON:00001180",
+        "name": "prepared",
+        "relations": {
+            "can_be": [
+                "FOODON:00002175",
+                "FOODON:00002219"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001181": {
+        "id": "FOODON:00001181",
+        "name": "cooked",
+        "relations": {
+            "can_be": [
+                "FOODON:00001281",
+                "FOODON:00002456"
+            ],
+            "is_a": [
+                "FOODON:00002645"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001182": {
+        "id": "FOODON:00001182",
+        "name": "pickled cruciferous",
+        "relations": {
+            "can_be": [
+                "FOODON:00001024"
+            ],
+            "is_a": [
+                "FOODON:00001169",
+                "FOODON:00002333"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001183": {
+        "id": "FOODON:00001183",
+        "name": "bread",
+        "relations": {
+            "is_a": [
+                "FOODON:00002456",
+                "FOODON:00003395"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001184": {
+        "id": "FOODON:00001184",
+        "name": "algal",
+        "relations": {
+            "is_a": [
+                "FOODON:00002381"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001185": {
+        "id": "FOODON:00001185",
+        "name": "rice",
+        "relations": {
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001186": {
+        "id": "FOODON:00001186",
+        "name": "buckewheat",
+        "relations": {
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001187": {
+        "id": "FOODON:00001187",
+        "name": "sorghum",
+        "relations": {
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001188": {
+        "id": "FOODON:00001188",
+        "name": "obsolete milet",
+        "relations": {},
+        "item": true
+    },
+    "FOODON:00001189": {
+        "id": "FOODON:00001189",
+        "name": "oat",
+        "relations": {
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001190": {
+        "id": "FOODON:00001190",
+        "name": "rye",
+        "relations": {
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001191": {
+        "id": "FOODON:00001191",
+        "name": "barley",
+        "relations": {
+            "can_be": [
+                "FOODON:00001074",
+                "FOODON:00001632"
+            ],
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001192": {
+        "id": "FOODON:00001192",
+        "name": "quinoa",
+        "relations": {
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001193": {
+        "id": "FOODON:00001193",
+        "name": "fonio",
+        "relations": {
+            "is_a": [
+                "FOODON:00002038"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001194": {
+        "id": "FOODON:00001194",
+        "name": "dry pea",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00001635",
+                "FOODON:00002813"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001195": {
+        "id": "FOODON:00001195",
+        "name": "obsolete lentil",
+        "relations": {},
+        "item": true
+    },
+    "FOODON:00001196": {
+        "id": "FOODON:00001196",
+        "name": "pigeon pea whole dried",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00002752",
+                "FOODON:00002781"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001197": {
+        "id": "FOODON:00001197",
+        "name": "bambara groundnut",
+        "relations": {
+            "is_a": [
+                "FOODON:00001264",
+                "FOODON:00002153"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001198": {
+        "id": "FOODON:00001198",
+        "name": "broad bean whole dried",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00002752",
+                "FOODON:03301227"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001199": {
+        "id": "FOODON:00001199",
+        "name": "chickpea",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00001635"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001200": {
+        "id": "FOODON:00001200",
+        "name": "cowpea pulse",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00001635"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001201": {
+        "id": "FOODON:00001201",
+        "name": "dry bean",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00001757"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001202": {
+        "id": "FOODON:00001202",
+        "name": "winged bean",
+        "relations": {
+            "is_a": [
+                "FOODON:00001635"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001203": {
+        "id": "FOODON:00001203",
+        "name": "vetch seed whole dried",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00002791",
+                "FOODON:03307539"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001204": {
+        "id": "FOODON:00001204",
+        "name": "yam bean",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00001635"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001205": {
+        "id": "FOODON:00001205",
+        "name": "velvet bean whole dried",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00002752",
+                "FOODON:00002786"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001206": {
+        "id": "FOODON:00001206",
+        "name": "lupin seed",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00001635"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001207": {
+        "id": "FOODON:00001207",
+        "name": "jack bean whole dried",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00002752",
+                "FOODON:00002778"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001208": {
+        "id": "FOODON:00001208",
+        "name": "hyacinth bean",
+        "relations": {
+            "is_a": [
+                "FOODON:00001209",
+                "FOODON:00001635"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001209": {
+        "id": "FOODON:00001209",
+        "name": "pulse",
+        "relations": {
+            "can_be": [
+                "FOODON:00001194",
+                "FOODON:00001196",
+                "FOODON:00001198",
+                "FOODON:00001199",
+                "FOODON:00001200",
+                "FOODON:00001201",
+                "FOODON:00001203",
+                "FOODON:00001204",
+                "FOODON:00001205",
+                "FOODON:00001206",
+                "FOODON:00001207",
+                "FOODON:00001208"
+            ],
+            "is_a": [
+                "FOODON:00001264"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001210": {
+        "id": "FOODON:00001210",
+        "name": "wheat flour",
+        "relations": {
+            "is_a": [
+                "FOODON:00001056",
+                "FOODON:00001141"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001211": {
+        "id": "FOODON:00001211",
+        "name": "pasta",
+        "relations": {
+            "is_a": [
+                "FOODON:00001141"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001212": {
+        "id": "FOODON:00001212",
+        "name": "pastry",
+        "relations": {
+            "is_a": [
+                "FOODON:00001626",
+                "FOODON:00003395"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001214": {
+        "id": "FOODON:00001214",
+        "name": "candy",
+        "relations": {
+            "can_be": [
+                "FOODON:00002126"
+            ],
+            "is_a": [
+                "FOODON:00001149"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001215": {
+        "id": "FOODON:00001215",
+        "name": "cacao",
+        "relations": {
+            "can_be": [
+                "FOODON:00001280",
+                "FOODON:03315302",
+                "FOODON:03460231"
+            ],
+            "is_a": [
+                "FOODON:00001173"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001216": {
+        "id": "FOODON:00001216",
+        "name": "cream",
+        "relations": {
+            "is_a": [
+                "FOODON:00001257"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001217": {
+        "id": "FOODON:00001217",
+        "name": "mammalian milk beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001090",
+                "FOODON:00001120",
+                "FOODON:00001121"
+            ],
+            "is_a": [
+                "FOODON:00001252",
+                "FOODON:03315150"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001218": {
+        "id": "FOODON:00001218",
+        "name": "bee",
+        "relations": {
+            "can_be": [
+                "FOODON:00001178"
+            ],
+            "is_a": [
+                "FOODON:00001177"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001219": {
+        "id": "FOODON:00001219",
+        "name": "sausage cooked smoked",
+        "relations": {
+            "is_a": [
+                "FOODON:00001220",
+                "FOODON:00001224"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001220": {
+        "id": "FOODON:00001220",
+        "name": "sausage smoked",
+        "relations": {
+            "can_be": [
+                "FOODON:00001219",
+                "FOODON:00001221"
+            ],
+            "is_a": [
+                "FOODON:00001225",
+                "FOODON:03315904"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001221": {
+        "id": "FOODON:00001221",
+        "name": "sausage raw smoked",
+        "relations": {
+            "is_a": [
+                "FOODON:00001220",
+                "FOODON:00001222"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001222": {
+        "id": "FOODON:00001222",
+        "name": "sausage raw",
+        "relations": {
+            "can_be": [
+                "FOODON:00001221"
+            ],
+            "is_a": [
+                "FOODON:03315904"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001223": {
+        "id": "FOODON:00001223",
+        "name": "sausage dried fermented",
+        "relations": {
+            "is_a": [
+                "FOODON:03315904"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001224": {
+        "id": "FOODON:00001224",
+        "name": "sausage cooked",
+        "relations": {
+            "can_be": [
+                "FOODON:00001009",
+                "FOODON:00001219"
+            ],
+            "is_a": [
+                "FOODON:03315904"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001225": {
+        "id": "FOODON:00001225",
+        "name": "smoked meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001220"
+            ],
+            "is_a": [
+                "FOODON:00001039"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001229": {
+        "id": "FOODON:00001229",
+        "name": "processed cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001013",
+                "FOODON:03311737"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001230": {
+        "id": "FOODON:00001230",
+        "name": "mustard seed",
+        "relations": {
+            "is_a": [
+                "FOODON:00001242",
+                "FOODON:00002053"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001231": {
+        "id": "FOODON:00001231",
+        "name": "creamy salad dressing",
+        "relations": {
+            "can_be": [
+                "FOODON:00001234"
+            ],
+            "is_a": [
+                "FOODON:00001290"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001232": {
+        "id": "FOODON:00001232",
+        "name": "vinaigrette dressing",
+        "relations": {
+            "is_a": [
+                "FOODON:00001290"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001233": {
+        "id": "FOODON:00001233",
+        "name": "nut oil",
+        "relations": {
+            "is_a": [
+                "FOODON:00001087"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001234": {
+        "id": "FOODON:00001234",
+        "name": "mayonnaise",
+        "relations": {
+            "is_a": [
+                "FOODON:00001231"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001235": {
+        "id": "FOODON:00001235",
+        "name": "soy sauce",
+        "relations": {
+            "is_a": [
+                "FOODON:00001078",
+                "FOODON:00002262"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001241": {
+        "id": "FOODON:00001241",
+        "name": "processed pork meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001061"
+            ],
+            "is_a": [
+                "FOODON:00001010",
+                "FOODON:00001038"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001242": {
+        "id": "FOODON:00001242",
+        "name": "spice or herb",
+        "relations": {
+            "can_be": [
+                "FOODON:00001230"
+            ],
+            "is_a": [
+                "FOODON:00001015",
+                "FOODON:00001133"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001243": {
+        "id": "FOODON:00001243",
+        "name": "animal lipid",
+        "relations": {
+            "can_be": [
+                "FOODON:00001023"
+            ],
+            "is_a": [
+                "FOODON:00001092",
+                "FOODON:00002664"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001244": {
+        "id": "FOODON:00001244",
+        "name": "coffee beverage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001139"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001245": {
+        "id": "FOODON:00001245",
+        "name": "tea beverage liquid",
+        "relations": {
+            "is_a": [
+                "FOODON:00001138"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001246": {
+        "id": "FOODON:00001246",
+        "name": "hot chocolate",
+        "relations": {
+            "is_a": [
+                "FOODON:00001255"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001247": {
+        "id": "FOODON:00001247",
+        "name": "mate",
+        "relations": {
+            "is_a": [
+                "FOODON:00001255"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001248": {
+        "id": "FOODON:00001248",
+        "name": "fish",
+        "relations": {
+            "can_be": [
+                "FOODON:03315173"
+            ],
+            "is_a": [
+                "FOODON:00001092"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001250": {
+        "id": "FOODON:00001250",
+        "name": "fish egg",
+        "relations": {
+            "can_be": [
+                "FOODON:00001104"
+            ],
+            "is_a": [
+                "FOODON:00001274",
+                "FOODON:03315173"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001251": {
+        "id": "FOODON:00001251",
+        "name": "avian",
+        "relations": {
+            "can_be": [
+                "FOODON:00001105",
+                "FOODON:00001283"
+            ],
+            "is_a": [
+                "FOODON:00001092"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001252": {
+        "id": "FOODON:00001252",
+        "name": "animal derived beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001217"
+            ],
+            "is_a": [
+                "FOODON:00001092",
+                "FOODON:03301977"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001253": {
+        "id": "FOODON:00001253",
+        "name": "plant derived beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001254",
+                "FOODON:00001255",
+                "FOODON:00001747",
+                "FOODON:00002275"
+            ],
+            "is_a": [
+                "FOODON:00001015",
+                "FOODON:03301977"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001254": {
+        "id": "FOODON:00001254",
+        "name": "plant derived fermented beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001095",
+                "FOODON:00001096",
+                "FOODON:00001097",
+                "FOODON:00001102",
+                "FOODON:00001103",
+                "FOODON:00001136",
+                "FOODON:00001159"
+            ],
+            "is_a": [
+                "FOODON:00001094",
+                "FOODON:00001253"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001255": {
+        "id": "FOODON:00001255",
+        "name": "nonfermented plant derived beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001138",
+                "FOODON:00001139",
+                "FOODON:00001140",
+                "FOODON:00001246",
+                "FOODON:00001247"
+            ],
+            "is_a": [
+                "FOODON:00001253"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001256": {
+        "id": "FOODON:00001256",
+        "name": "dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001013",
+                "FOODON:00001053",
+                "FOODON:00001106",
+                "FOODON:00001107",
+                "FOODON:00001111",
+                "FOODON:00001257",
+                "FOODON:00001800",
+                "FOODON:00001879"
+            ],
+            "is_a": [
+                "FOODON:00001092"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001257": {
+        "id": "FOODON:00001257",
+        "name": "milk or milk based",
+        "relations": {
+            "can_be": [
+                "FOODON:00001045",
+                "FOODON:00001091",
+                "FOODON:00001216",
+                "FOODON:00001771",
+                "FOODON:03315150"
+            ],
+            "is_a": [
+                "FOODON:00001256"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001258": {
+        "id": "FOODON:00001258",
+        "name": "fermented",
+        "relations": {
+            "can_be": [
+                "FOODON:00001053",
+                "FOODON:00001054",
+                "FOODON:00001069",
+                "FOODON:00001073",
+                "FOODON:00001094",
+                "FOODON:03310006"
+            ],
+            "is_a": [
+                "FOODON:00002501",
+                "FOODON:00002645"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001259": {
+        "id": "FOODON:00001259",
+        "name": "non fruit wine",
+        "relations": {
+            "is_a": [
+                "FOODON:00002364"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001260": {
+        "id": "FOODON:00001260",
+        "name": "beer beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001064"
+            ],
+            "is_a": [
+                "FOODON:00001102"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001261": {
+        "id": "FOODON:00001261",
+        "name": "vegetable",
+        "relations": {
+            "can_be": [
+                "FOODON:00002141",
+                "FOODON:00002153",
+                "FOODON:00002156",
+                "FOODON:00002333",
+                "FOODON:00003341"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001262": {
+        "id": "FOODON:00001262",
+        "name": "botanical fruit",
+        "relations": {
+            "can_be": [
+                "FOODON:00001172",
+                "FOODON:00001264"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001264": {
+        "id": "FOODON:00001264",
+        "name": "legume",
+        "relations": {
+            "can_be": [
+                "FOODON:00001197",
+                "FOODON:00001209",
+                "FOODON:00001635",
+                "FOODON:00002780",
+                "FOODON:00002813"
+            ],
+            "is_a": [
+                "FOODON:00001262"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001266": {
+        "id": "FOODON:00001266",
+        "name": "camel milk beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001298"
+            ],
+            "is_a": [
+                "FOODON:00001106",
+                "FOODON:00001120"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001272": {
+        "id": "FOODON:00001272",
+        "name": "zebra milk beverage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001114",
+                "FOODON:00001121"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001274": {
+        "id": "FOODON:00001274",
+        "name": "egg",
+        "relations": {
+            "can_be": [
+                "FOODON:00001105",
+                "FOODON:00001250"
+            ],
+            "is_a": [
+                "FOODON:00001092"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001275": {
+        "id": "FOODON:00001275",
+        "name": "hen egg",
+        "relations": {
+            "can_be": [
+                "FOODON:00002175"
+            ],
+            "is_a": [
+                "FOODON:00001105"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001276": {
+        "id": "FOODON:00001276",
+        "name": "apple cider alcoholic",
+        "relations": {
+            "is_a": [
+                "FOODON:00001098"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001277": {
+        "id": "FOODON:00001277",
+        "name": "orange juice unpasteurized",
+        "relations": {
+            "is_a": [
+                "FOODON:00001001"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001278": {
+        "id": "FOODON:00001278",
+        "name": "cake",
+        "relations": {
+            "is_a": [
+                "FOODON:00001626"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001279": {
+        "id": "FOODON:00001279",
+        "name": "cake icing",
+        "relations": {
+            "is_a": [
+                "FOODON:03303220"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001280": {
+        "id": "FOODON:00001280",
+        "name": "chocolate",
+        "relations": {
+            "is_a": [
+                "FOODON:00001149",
+                "FOODON:00001215"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001281": {
+        "id": "FOODON:00001281",
+        "name": "custard dessert",
+        "relations": {
+            "is_a": [
+                "FOODON:00001181",
+                "FOODON:00001777"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001282": {
+        "id": "FOODON:00001282",
+        "name": "ground beef",
+        "relations": {
+            "is_a": [
+                "FOODON:00001041"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001283": {
+        "id": "FOODON:00001283",
+        "name": "poultry",
+        "relations": {
+            "can_be": [
+                "FOODON:00001131"
+            ],
+            "is_a": [
+                "FOODON:00001251"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001284": {
+        "id": "FOODON:00001284",
+        "name": "duck meat",
+        "relations": {
+            "is_a": [
+                "FOODON:00001131"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001285": {
+        "id": "FOODON:00001285",
+        "name": "goose meat",
+        "relations": {
+            "is_a": [
+                "FOODON:00001131"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001286": {
+        "id": "FOODON:00001286",
+        "name": "turkey meat",
+        "relations": {
+            "is_a": [
+                "FOODON:00001131"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001287": {
+        "id": "FOODON:00001287",
+        "name": "mushroom whole organism",
+        "relations": {
+            "is_a": [
+                "FOODON:03412035"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001288": {
+        "id": "FOODON:00001288",
+        "name": "cantaloupe fruit",
+        "relations": {
+            "is_a": [
+                "FOODON:00001153"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001289": {
+        "id": "FOODON:00001289",
+        "name": "potato salad",
+        "relations": {
+            "is_a": [
+                "FOODON:00002132"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001290": {
+        "id": "FOODON:00001290",
+        "name": "salad dressing",
+        "relations": {
+            "can_be": [
+                "FOODON:00001231",
+                "FOODON:00001232"
+            ],
+            "is_a": [
+                "FOODON:00001133",
+                "FOODON:00002146"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001291": {
+        "id": "FOODON:00001291",
+        "name": "clam",
+        "relations": {
+            "is_a": [
+                "FOODON:00002044"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001292": {
+        "id": "FOODON:00001292",
+        "name": "oyster",
+        "relations": {
+            "is_a": [
+                "FOODON:00002044"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001293": {
+        "id": "FOODON:00001293",
+        "name": "shellfish",
+        "relations": {
+            "can_be": [
+                "FOODON:00002044"
+            ],
+            "is_a": [
+                "FOODON:00001046",
+                "FOODON:00001176"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001294": {
+        "id": "FOODON:00001294",
+        "name": "goat milk cheese unpasteurized",
+        "relations": {
+            "is_a": [
+                "FOODON:00001129"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001295": {
+        "id": "FOODON:00001295",
+        "name": "pecorino cheese",
+        "relations": {
+            "is_a": [
+                "FOODON:00001130"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001296": {
+        "id": "FOODON:00001296",
+        "name": "sheep milk cheese unpasteurized",
+        "relations": {
+            "is_a": [
+                "FOODON:00001130"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001298": {
+        "id": "FOODON:00001298",
+        "name": "unpasteurized camel milk beverage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001266"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001611": {
+        "id": "FOODON:00001611",
+        "name": "apple",
+        "relations": {
+            "can_be": [
+                "FOODON:00001059",
+                "FOODON:00001613"
+            ],
+            "is_a": [
+                "FOODON:00001158"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001613": {
+        "id": "FOODON:00001613",
+        "name": "apple vinegar",
+        "relations": {
+            "is_a": [
+                "FOODON:00001073",
+                "FOODON:00001611"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001626": {
+        "id": "FOODON:00001626",
+        "name": "bakery",
+        "relations": {
+            "can_be": [
+                "FOODON:00001212",
+                "FOODON:00001278",
+                "FOODON:00002125"
+            ],
+            "is_a": [
+                "FOODON:00002645"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001632": {
+        "id": "FOODON:00001632",
+        "name": "barley flour",
+        "relations": {
+            "is_a": [
+                "FOODON:00001056",
+                "FOODON:00001191"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001635": {
+        "id": "FOODON:00001635",
+        "name": "bean",
+        "relations": {
+            "can_be": [
+                "FOODON:00001194",
+                "FOODON:00001199",
+                "FOODON:00001200",
+                "FOODON:00001202",
+                "FOODON:00001204",
+                "FOODON:00001206",
+                "FOODON:00001208",
+                "FOODON:00001665",
+                "FOODON:00001757",
+                "FOODON:00002266",
+                "FOODON:00002753",
+                "FOODON:00002779",
+                "FOODON:03310006"
+            ],
+            "is_a": [
+                "FOODON:00001264",
+                "FOODON:00002153"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001665": {
+        "id": "FOODON:00001665",
+        "name": "broad bean",
+        "relations": {
+            "can_be": [
+                "FOODON:03301227"
+            ],
+            "is_a": [
+                "FOODON:00001635"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001696": {
+        "id": "FOODON:00001696",
+        "name": "cattle cured meat",
+        "relations": {
+            "is_a": [
+                "FOODON:00001039",
+                "FOODON:00001041"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001714": {
+        "id": "FOODON:00001714",
+        "name": "component",
+        "relations": {
+            "can_be": [
+                "FOODON:00001133",
+                "FOODON:00001857",
+                "FOODON:00001867",
+                "FOODON:03420228"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001747": {
+        "id": "FOODON:00001747",
+        "name": "cocoa beverage",
+        "relations": {
+            "is_a": [
+                "FOODON:00001253",
+                "FOODON:03315302"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00001757": {
+        "id": "FOODON:00001757",
+        "name": "common bean",
+        "relations": {
+            "can_be": [
+                "FOODON:00001201"
+            ],
+            "is_a": [
+                "FOODON:00001635"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001765": {
+        "id": "FOODON:00001765",
+        "name": "vegetable corn",
+        "relations": {
+            "can_be": [
+                "FOODON:03310791"
+            ],
+            "is_a": [
+                "FOODON:00001142",
+                "FOODON:00002153"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001771": {
+        "id": "FOODON:00001771",
+        "name": "cow milk based",
+        "relations": {
+            "can_be": [
+                "FOODON:00001127",
+                "FOODON:00001777"
+            ],
+            "is_a": [
+                "FOODON:00001118",
+                "FOODON:00001257"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001777": {
+        "id": "FOODON:00001777",
+        "name": "cow milk dessert",
+        "relations": {
+            "can_be": [
+                "FOODON:00001281"
+            ],
+            "is_a": [
+                "FOODON:00001771",
+                "FOODON:00002035"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001800": {
+        "id": "FOODON:00001800",
+        "name": "dairy dessert",
+        "relations": {
+            "can_be": [
+                "FOODON:00001878",
+                "FOODON:00002035"
+            ],
+            "is_a": [
+                "FOODON:00001256",
+                "FOODON:03303220"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001857": {
+        "id": "FOODON:00001857",
+        "name": "flavoring or seasoning",
+        "relations": {
+            "can_be": [
+                "FOODON:00002300"
+            ],
+            "is_a": [
+                "FOODON:00001714"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001859": {
+        "id": "FOODON:00001859",
+        "name": "flaxseed",
+        "relations": {
+            "can_be": [
+                "FOODON:00001088"
+            ],
+            "is_a": [
+                "FOODON:00001173"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001867": {
+        "id": "FOODON:00001867",
+        "name": "dressing",
+        "relations": {
+            "can_be": [
+                "FOODON:00002146"
+            ],
+            "is_a": [
+                "FOODON:00001714"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001878": {
+        "id": "FOODON:00001878",
+        "name": "frozen dairy dessert",
+        "relations": {
+            "can_be": [
+                "FOODON:00001045"
+            ],
+            "is_a": [
+                "FOODON:00001800",
+                "FOODON:00001879"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001879": {
+        "id": "FOODON:00001879",
+        "name": "frozen dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001878"
+            ],
+            "is_a": [
+                "FOODON:00001256"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00001891": {
+        "id": "FOODON:00001891",
+        "name": "fruit salad",
+        "relations": {
+            "is_a": [
+                "FOODON:00001057",
+                "FOODON:00002132"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00002029": {
+        "id": "FOODON:00002029",
+        "name": "melon",
+        "relations": {
+            "can_be": [
+                "FOODON:00001152"
+            ],
+            "is_a": [
+                "FOODON:00001150"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002035": {
+        "id": "FOODON:00002035",
+        "name": "milk dessert",
+        "relations": {
+            "can_be": [
+                "FOODON:00001777"
+            ],
+            "is_a": [
+                "FOODON:00001800"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002038": {
+        "id": "FOODON:00002038",
+        "name": "millet",
+        "relations": {
+            "can_be": [
+                "FOODON:00001193"
+            ],
+            "is_a": [
+                "FOODON:00001093"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002044": {
+        "id": "FOODON:00002044",
+        "name": "mollusc",
+        "relations": {
+            "can_be": [
+                "FOODON:00001291",
+                "FOODON:00001292"
+            ],
+            "is_a": [
+                "FOODON:00001293"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002053": {
+        "id": "FOODON:00002053",
+        "name": "mustard",
+        "relations": {
+            "can_be": [
+                "FOODON:00001230"
+            ],
+            "is_a": [
+                "FOODON:00003341"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002071": {
+        "id": "FOODON:00002071",
+        "name": "orange",
+        "relations": {
+            "can_be": [
+                "FOODON:00001100"
+            ],
+            "is_a": [
+                "FOODON:00001151"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002125": {
+        "id": "FOODON:00002125",
+        "name": "plant based bakery",
+        "relations": {
+            "can_be": [
+                "FOODON:00002151"
+            ],
+            "is_a": [
+                "FOODON:00001626",
+                "FOODON:03316579"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002126": {
+        "id": "FOODON:00002126",
+        "name": "plant based candy",
+        "relations": {
+            "is_a": [
+                "FOODON:00001214",
+                "FOODON:03316579"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00002131": {
+        "id": "FOODON:00002131",
+        "name": "plant based refined or partially refined",
+        "relations": {
+            "can_be": [
+                "FOODON:00002139"
+            ],
+            "is_a": [
+                "FOODON:00002196"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002132": {
+        "id": "FOODON:00002132",
+        "name": "plant based salad",
+        "relations": {
+            "can_be": [
+                "FOODON:00001289",
+                "FOODON:00001891"
+            ],
+            "is_a": [
+                "FOODON:00002219",
+                "FOODON:03316579"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002139": {
+        "id": "FOODON:00002139",
+        "name": "plant fat or oil refined",
+        "relations": {
+            "can_be": [
+                "FOODON:03316694"
+            ],
+            "is_a": [
+                "FOODON:00001174",
+                "FOODON:00002131"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002141": {
+        "id": "FOODON:00002141",
+        "name": "plant fruit vegetable",
+        "relations": {
+            "can_be": [
+                "FOODON:00001164"
+            ],
+            "is_a": [
+                "FOODON:00001057",
+                "FOODON:00001261"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002146": {
+        "id": "FOODON:00002146",
+        "name": "plant dressing",
+        "relations": {
+            "can_be": [
+                "FOODON:00001290"
+            ],
+            "is_a": [
+                "FOODON:00001867",
+                "FOODON:03316579"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002151": {
+        "id": "FOODON:00002151",
+        "name": "plant seed based bakery",
+        "relations": {
+            "is_a": [
+                "FOODON:00001173",
+                "FOODON:00002125"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00002153": {
+        "id": "FOODON:00002153",
+        "name": "plant seed vegetable",
+        "relations": {
+            "can_be": [
+                "FOODON:00001197",
+                "FOODON:00001635",
+                "FOODON:00001765",
+                "FOODON:00002787"
+            ],
+            "is_a": [
+                "FOODON:00001173",
+                "FOODON:00001261"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002156": {
+        "id": "FOODON:00002156",
+        "name": "plant stem or spear vegetable",
+        "relations": {
+            "is_a": [
+                "FOODON:00001175",
+                "FOODON:00001261"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00002157": {
+        "id": "FOODON:00002157",
+        "name": "plant sweetener",
+        "relations": {
+            "can_be": [
+                "FOODON:03305536",
+                "FOODON:03316271"
+            ],
+            "is_a": [
+                "FOODON:00002300"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002158": {
+        "id": "FOODON:00002158",
+        "name": "preserved",
+        "relations": {
+            "can_be": [
+                "FOODON:03307539"
+            ],
+            "is_a": [
+                "FOODON:00002645"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002165": {
+        "id": "FOODON:00002165",
+        "name": "organ meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00002819"
+            ],
+            "is_a": [
+                "FOODON:03317170"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002175": {
+        "id": "FOODON:00002175",
+        "name": "prepared hen egg",
+        "relations": {
+            "is_a": [
+                "FOODON:00001180",
+                "FOODON:00001275"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:00002196": {
+        "id": "FOODON:00002196",
+        "name": "refined or partially refined",
+        "relations": {
+            "can_be": [
+                "FOODON:00002131"
+            ],
+            "is_a": [
+                "FOODON:03311737"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002219": {
+        "id": "FOODON:00002219",
+        "name": "salad",
+        "relations": {
+            "can_be": [
+                "FOODON:00002132"
+            ],
+            "is_a": [
+                "FOODON:00001180"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002252": {
+        "id": "FOODON:00002252",
+        "name": "soft cheese",
+        "relations": {
+            "can_be": [
+                "FOODON:00001037"
+            ],
+            "is_a": [
+                "FOODON:00001127"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002262": {
+        "id": "FOODON:00002262",
+        "name": "soybean condiment",
+        "relations": {
+            "can_be": [
+                "FOODON:00001235"
+            ],
+            "is_a": [
+                "FOODON:00001133"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002266": {
+        "id": "FOODON:00002266",
+        "name": "soybean",
+        "relations": {
+            "can_be": [
+                "FOODON:00001078"
+            ],
+            "is_a": [
+                "FOODON:00001635"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002275": {
+        "id": "FOODON:00002275",
+        "name": "steeped beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001138",
+                "FOODON:00001139"
+            ],
+            "is_a": [
+                "FOODON:00001253"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002300": {
+        "id": "FOODON:00002300",
+        "name": "sweetener",
+        "relations": {
+            "can_be": [
+                "FOODON:00001178",
+                "FOODON:00002157"
+            ],
+            "is_a": [
+                "FOODON:00001133",
+                "FOODON:00001857"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002301": {
+        "id": "FOODON:00002301",
+        "name": "pork cured meat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001077"
+            ],
+            "is_a": [
+                "FOODON:00001038",
+                "FOODON:00001039"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002333": {
+        "id": "FOODON:00002333",
+        "name": "vegetable pickle",
+        "relations": {
+            "can_be": [
+                "FOODON:00001182"
+            ],
+            "is_a": [
+                "FOODON:00001079",
+                "FOODON:00001261"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002364": {
+        "id": "FOODON:00002364",
+        "name": "wine or wine like",
+        "relations": {
+            "can_be": [
+                "FOODON:00001259"
+            ],
+            "is_a": [
+                "FOODON:00001094"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002373": {
+        "id": "FOODON:00002373",
+        "name": "by meal type",
+        "relations": {
+            "can_be": [
+                "FOODON:00001149",
+                "FOODON:03301977",
+                "FOODON:03303220"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002381": {
+        "id": "FOODON:00002381",
+        "name": "by organism",
+        "relations": {
+            "can_be": [
+                "FOODON:00001015",
+                "FOODON:00001046",
+                "FOODON:00001092",
+                "FOODON:00001176",
+                "FOODON:00001184"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002403": {
+        "id": "FOODON:00002403",
+        "name": "material",
+        "relations": {
+            "can_be": [
+                "FOODON:00001002",
+                "FOODON:03400361"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002423": {
+        "id": "FOODON:00002423",
+        "name": "agave",
+        "relations": {
+            "can_be": [
+                "FOODON:00001103"
+            ],
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002450": {
+        "id": "FOODON:00002450",
+        "name": "multi component honey",
+        "relations": {
+            "can_be": [
+                "FOODON:03305536"
+            ],
+            "is_a": [
+                "FOODON:00001178",
+                "FOODON:00002501"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002451": {
+        "id": "FOODON:00002451",
+        "name": "transformation process",
+        "relations": {
+            "can_be": [
+                "FOODON:03460111"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002454": {
+        "id": "FOODON:00002454",
+        "name": "by quality",
+        "relations": {
+            "can_be": [
+                "FOODON:03430130"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002456": {
+        "id": "FOODON:00002456",
+        "name": "baked",
+        "relations": {
+            "can_be": [
+                "FOODON:00001183"
+            ],
+            "is_a": [
+                "FOODON:00001181"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002501": {
+        "id": "FOODON:00002501",
+        "name": "multi component",
+        "relations": {
+            "can_be": [
+                "FOODON:00001258",
+                "FOODON:00002450",
+                "FOODON:03316579"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002645": {
+        "id": "FOODON:00002645",
+        "name": "by process",
+        "relations": {
+            "can_be": [
+                "FOODON:00001079",
+                "FOODON:00001181",
+                "FOODON:00001258",
+                "FOODON:00001626",
+                "FOODON:00002158"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002663": {
+        "id": "FOODON:00002663",
+        "name": "pork",
+        "relations": {
+            "can_be": [
+                "FOODON:00001038"
+            ],
+            "is_a": [
+                "FOODON:00001132"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002664": {
+        "id": "FOODON:00002664",
+        "name": "lipid",
+        "relations": {
+            "can_be": [
+                "FOODON:00001174",
+                "FOODON:00001243",
+                "FOODON:03310387"
+            ],
+            "is_a": [
+                "FOODON:03420228"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002752": {
+        "id": "FOODON:00002752",
+        "name": "bean whole dried",
+        "relations": {
+            "can_be": [
+                "FOODON:00001196",
+                "FOODON:00001198",
+                "FOODON:00001205",
+                "FOODON:00001207"
+            ],
+            "is_a": [
+                "FOODON:00002753",
+                "FOODON:03307539"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002753": {
+        "id": "FOODON:00002753",
+        "name": "bean whole",
+        "relations": {
+            "can_be": [
+                "FOODON:00002752",
+                "FOODON:00002778",
+                "FOODON:00002786"
+            ],
+            "is_a": [
+                "FOODON:00001635"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002778": {
+        "id": "FOODON:00002778",
+        "name": "jack bean whole",
+        "relations": {
+            "can_be": [
+                "FOODON:00001207"
+            ],
+            "is_a": [
+                "FOODON:00002753",
+                "FOODON:00002779"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002779": {
+        "id": "FOODON:00002779",
+        "name": "jack bean",
+        "relations": {
+            "can_be": [
+                "FOODON:00002778"
+            ],
+            "is_a": [
+                "FOODON:00001635"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002780": {
+        "id": "FOODON:00002780",
+        "name": "pigeon pea",
+        "relations": {
+            "can_be": [
+                "FOODON:00002781"
+            ],
+            "is_a": [
+                "FOODON:00001264"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002781": {
+        "id": "FOODON:00002781",
+        "name": "pigeon pea whole",
+        "relations": {
+            "can_be": [
+                "FOODON:00001196"
+            ],
+            "is_a": [
+                "FOODON:00002780"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002786": {
+        "id": "FOODON:00002786",
+        "name": "velvet bean whole",
+        "relations": {
+            "can_be": [
+                "FOODON:00001205"
+            ],
+            "is_a": [
+                "FOODON:00002753"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002787": {
+        "id": "FOODON:00002787",
+        "name": "vetch",
+        "relations": {
+            "can_be": [
+                "FOODON:00002791"
+            ],
+            "is_a": [
+                "FOODON:00002153"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002791": {
+        "id": "FOODON:00002791",
+        "name": "vetch seed whole",
+        "relations": {
+            "can_be": [
+                "FOODON:00001203"
+            ],
+            "is_a": [
+                "FOODON:00002787"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002813": {
+        "id": "FOODON:00002813",
+        "name": "pea",
+        "relations": {
+            "can_be": [
+                "FOODON:00001194"
+            ],
+            "is_a": [
+                "FOODON:00001264"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00002819": {
+        "id": "FOODON:00002819",
+        "name": "liver",
+        "relations": {
+            "can_be": [
+                "FOODON:00001008"
+            ],
+            "is_a": [
+                "FOODON:00002165"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00003341": {
+        "id": "FOODON:00003341",
+        "name": "brassica",
+        "relations": {
+            "can_be": [
+                "FOODON:00001016",
+                "FOODON:00002053"
+            ],
+            "is_a": [
+                "FOODON:00001169",
+                "FOODON:00001261"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:00003395": {
+        "id": "FOODON:00003395",
+        "name": "multi component wheat",
+        "relations": {
+            "can_be": [
+                "FOODON:00001183",
+                "FOODON:00001212"
+            ],
+            "is_a": [
+                "FOODON:03316579"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03301073": {
+        "id": "FOODON:03301073",
+        "name": "sugar granulated",
+        "relations": {
+            "can_be": [
+                "FOODON:03420156"
+            ],
+            "is_a": [
+                "FOODON:03307345"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03301103": {
+        "id": "FOODON:03301103",
+        "name": "orange juice",
+        "relations": {
+            "can_be": [
+                "FOODON:00001001"
+            ],
+            "is_a": [
+                "FOODON:00001100"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03301227": {
+        "id": "FOODON:03301227",
+        "name": "broad bean whole",
+        "relations": {
+            "can_be": [
+                "FOODON:00001198"
+            ],
+            "is_a": [
+                "FOODON:00001665"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03301977": {
+        "id": "FOODON:03301977",
+        "name": "beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001094",
+                "FOODON:00001252",
+                "FOODON:00001253",
+                "FOODON:03315552"
+            ],
+            "is_a": [
+                "FOODON:00002373"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03302001": {
+        "id": "FOODON:03302001",
+        "name": "animal derived",
+        "relations": {
+            "can_be": [
+                "FOODON:03315925"
+            ],
+            "is_a": [
+                "FOODON:00001092"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03303220": {
+        "id": "FOODON:03303220",
+        "name": "dessert",
+        "relations": {
+            "can_be": [
+                "FOODON:00001279",
+                "FOODON:00001800"
+            ],
+            "is_a": [
+                "FOODON:00002373"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03303909": {
+        "id": "FOODON:03303909",
+        "name": "cultured dairy",
+        "relations": {
+            "can_be": [
+                "FOODON:00001086"
+            ],
+            "is_a": [
+                "FOODON:00001053"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03305536": {
+        "id": "FOODON:03305536",
+        "name": "honey blend table syrup",
+        "relations": {
+            "is_a": [
+                "FOODON:00002157",
+                "FOODON:00002450"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03307345": {
+        "id": "FOODON:03307345",
+        "name": "sugar refined",
+        "relations": {
+            "can_be": [
+                "FOODON:03301073"
+            ],
+            "is_a": [
+                "FOODON:03316271"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03307539": {
+        "id": "FOODON:03307539",
+        "name": "dried",
+        "relations": {
+            "can_be": [
+                "FOODON:00001091",
+                "FOODON:00001203",
+                "FOODON:00002752"
+            ],
+            "is_a": [
+                "FOODON:00002158"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03310006": {
+        "id": "FOODON:03310006",
+        "name": "fermented bean",
+        "relations": {
+            "can_be": [
+                "FOODON:00001078"
+            ],
+            "is_a": [
+                "FOODON:00001258",
+                "FOODON:00001635"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03310226": {
+        "id": "FOODON:03310226",
+        "name": "hominy",
+        "relations": {
+            "is_a": [
+                "FOODON:03310791"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03310387": {
+        "id": "FOODON:03310387",
+        "name": "oil",
+        "relations": {
+            "can_be": [
+                "FOODON:00001087"
+            ],
+            "is_a": [
+                "FOODON:00002664"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03310791": {
+        "id": "FOODON:03310791",
+        "name": "corn on the cob kernel or parts",
+        "relations": {
+            "can_be": [
+                "FOODON:03310226"
+            ],
+            "is_a": [
+                "FOODON:00001765"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03311737": {
+        "id": "FOODON:03311737",
+        "name": "processed",
+        "relations": {
+            "can_be": [
+                "FOODON:00001010",
+                "FOODON:00001229",
+                "FOODON:00002196"
+            ],
+            "is_a": [
+                "FOODON:00001002"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03315150": {
+        "id": "FOODON:03315150",
+        "name": "mammalian milk",
+        "relations": {
+            "can_be": [
+                "FOODON:00001023",
+                "FOODON:00001075",
+                "FOODON:00001217",
+                "FOODON:03420244"
+            ],
+            "is_a": [
+                "FOODON:00001257"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03315173": {
+        "id": "FOODON:03315173",
+        "name": "fish unspecified species",
+        "relations": {
+            "can_be": [
+                "FOODON:00001055",
+                "FOODON:00001250"
+            ],
+            "is_a": [
+                "FOODON:00001248"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03315302": {
+        "id": "FOODON:03315302",
+        "name": "cocoa",
+        "relations": {
+            "can_be": [
+                "FOODON:00001747"
+            ],
+            "is_a": [
+                "FOODON:00001215"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03315552": {
+        "id": "FOODON:03315552",
+        "name": "juice beverage",
+        "relations": {
+            "can_be": [
+                "FOODON:00001140"
+            ],
+            "is_a": [
+                "FOODON:03301977"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03315904": {
+        "id": "FOODON:03315904",
+        "name": "sausage formed",
+        "relations": {
+            "can_be": [
+                "FOODON:00001220",
+                "FOODON:00001222",
+                "FOODON:00001223",
+                "FOODON:00001224"
+            ],
+            "is_a": [
+                "FOODON:00001007"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03315925": {
+        "id": "FOODON:03315925",
+        "name": "pate",
+        "relations": {
+            "can_be": [
+                "FOODON:00001008"
+            ],
+            "is_a": [
+                "FOODON:00001010",
+                "FOODON:03302001"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03316271": {
+        "id": "FOODON:03316271",
+        "name": "sugar",
+        "relations": {
+            "can_be": [
+                "FOODON:03307345"
+            ],
+            "is_a": [
+                "FOODON:00002157"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03316579": {
+        "id": "FOODON:03316579",
+        "name": "multi component plant",
+        "relations": {
+            "can_be": [
+                "FOODON:00002125",
+                "FOODON:00002126",
+                "FOODON:00002132",
+                "FOODON:00002146",
+                "FOODON:00003395"
+            ],
+            "is_a": [
+                "FOODON:00002501"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03316694": {
+        "id": "FOODON:03316694",
+        "name": "vegetable fat",
+        "relations": {
+            "is_a": [
+                "FOODON:00002139"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03317170": {
+        "id": "FOODON:03317170",
+        "name": "meat whole or parts",
+        "relations": {
+            "can_be": [
+                "FOODON:00002165"
+            ],
+            "is_a": [
+                "FOODON:00001006"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400115": {
+        "id": "FOODON:03400115",
+        "name": "cheese or cheese us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400187"
+            ],
+            "is_a": [
+                "FOODON:03400164"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400143": {
+        "id": "FOODON:03400143",
+        "name": "fruit or fruit us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400155"
+            ],
+            "is_a": [
+                "FOODON:03400257"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400147": {
+        "id": "FOODON:03400147",
+        "name": "milk or milk analog us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400294"
+            ],
+            "is_a": [
+                "FOODON:03400148"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400148": {
+        "id": "FOODON:03400148",
+        "name": "milk or milk us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400147"
+            ],
+            "is_a": [
+                "FOODON:03400164"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400155": {
+        "id": "FOODON:03400155",
+        "name": "fruit butter jelly preserve or related us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400209"
+            ],
+            "is_a": [
+                "FOODON:03400143"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400164": {
+        "id": "FOODON:03400164",
+        "name": "dairy us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400115",
+                "FOODON:03400148"
+            ],
+            "is_a": [
+                "FOODON:03401270"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400187": {
+        "id": "FOODON:03400187",
+        "name": "natural cheese us cfr",
+        "relations": {
+            "is_a": [
+                "FOODON:03400115"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400188": {
+        "id": "FOODON:03400188",
+        "name": "confectionery us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400204"
+            ],
+            "is_a": [
+                "FOODON:03401270"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400204": {
+        "id": "FOODON:03400204",
+        "name": "candy us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400293"
+            ],
+            "is_a": [
+                "FOODON:03400188"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400209": {
+        "id": "FOODON:03400209",
+        "name": "fruit jelly us cfr",
+        "relations": {
+            "is_a": [
+                "FOODON:03400155"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400213": {
+        "id": "FOODON:03400213",
+        "name": "fudge us cfr",
+        "relations": {
+            "is_a": [
+                "FOODON:03400293"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400231": {
+        "id": "FOODON:03400231",
+        "name": "margarine us cfr",
+        "relations": {
+            "is_a": [
+                "FOODON:03400294"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400257": {
+        "id": "FOODON:03400257",
+        "name": "fruit or vegetable us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400143"
+            ],
+            "is_a": [
+                "FOODON:03401270"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400289": {
+        "id": "FOODON:03400289",
+        "name": "usa agency type",
+        "relations": {
+            "can_be": [
+                "FOODON:03401270"
+            ],
+            "is_a": [
+                "FOODON:03400361"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400293": {
+        "id": "FOODON:03400293",
+        "name": "soft candy us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400213"
+            ],
+            "is_a": [
+                "FOODON:03400204"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400294": {
+        "id": "FOODON:03400294",
+        "name": "butter analog us cfr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400231"
+            ],
+            "is_a": [
+                "FOODON:03400147"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400352": {
+        "id": "FOODON:03400352",
+        "name": "international agency type",
+        "relations": {
+            "can_be": [
+                "FOODON:03400643",
+                "FOODON:03400874"
+            ],
+            "is_a": [
+                "FOODON:03400361"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400356": {
+        "id": "FOODON:03400356",
+        "name": "european union agency type",
+        "relations": {
+            "can_be": [
+                "FOODON:03400777"
+            ],
+            "is_a": [
+                "FOODON:03400361"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400361": {
+        "id": "FOODON:03400361",
+        "name": "agency type",
+        "relations": {
+            "can_be": [
+                "FOODON:03400289",
+                "FOODON:03400352",
+                "FOODON:03400356"
+            ],
+            "is_a": [
+                "FOODON:00002403"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400643": {
+        "id": "FOODON:03400643",
+        "name": "codex alimentarius classification of and feed commodities",
+        "relations": {
+            "can_be": [
+                "FOODON:03400644"
+            ],
+            "is_a": [
+                "FOODON:03400352"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400644": {
+        "id": "FOODON:03400644",
+        "name": "a primary commodities of plant origin ccpr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400650"
+            ],
+            "is_a": [
+                "FOODON:03400643"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400650": {
+        "id": "FOODON:03400650",
+        "name": "vegetables ccpr",
+        "relations": {
+            "can_be": [
+                "FOODON:03400680"
+            ],
+            "is_a": [
+                "FOODON:03400644"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400680": {
+        "id": "FOODON:03400680",
+        "name": "pulses vd ccpr",
+        "relations": {
+            "is_a": [
+                "FOODON:03400650"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400777": {
+        "id": "FOODON:03400777",
+        "name": "eurofir classification",
+        "relations": {
+            "can_be": [
+                "FOODON:03400801",
+                "FOODON:03400840",
+                "FOODON:03400852"
+            ],
+            "is_a": [
+                "FOODON:03400356"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400801": {
+        "id": "FOODON:03400801",
+        "name": "sea or related eurofir",
+        "relations": {
+            "can_be": [
+                "FOODON:03400803"
+            ],
+            "is_a": [
+                "FOODON:03400777"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400803": {
+        "id": "FOODON:03400803",
+        "name": "sea eurofir",
+        "relations": {
+            "is_a": [
+                "FOODON:03400801"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400840": {
+        "id": "FOODON:03400840",
+        "name": "beverage non milk eurofir",
+        "relations": {
+            "can_be": [
+                "FOODON:03400842"
+            ],
+            "is_a": [
+                "FOODON:03400777"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400842": {
+        "id": "FOODON:03400842",
+        "name": "non alcoholic beverage eurofir",
+        "relations": {
+            "can_be": [
+                "FOODON:03400845"
+            ],
+            "is_a": [
+                "FOODON:03400840"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400845": {
+        "id": "FOODON:03400845",
+        "name": "coffee tea cocoa or infusion eurofir",
+        "relations": {
+            "is_a": [
+                "FOODON:03400842"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400852": {
+        "id": "FOODON:03400852",
+        "name": "miscellaneous eurofir",
+        "relations": {
+            "can_be": [
+                "FOODON:03400861"
+            ],
+            "is_a": [
+                "FOODON:03400777"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400861": {
+        "id": "FOODON:03400861",
+        "name": "prepared eurofir",
+        "relations": {
+            "can_be": [
+                "FOODON:03400865"
+            ],
+            "is_a": [
+                "FOODON:03400852"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400865": {
+        "id": "FOODON:03400865",
+        "name": "soup eurofir",
+        "relations": {
+            "is_a": [
+                "FOODON:03400861"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03400874": {
+        "id": "FOODON:03400874",
+        "name": "gs global classification gpc",
+        "relations": {
+            "can_be": [
+                "FOODON:03400960",
+                "FOODON:03401061"
+            ],
+            "is_a": [
+                "FOODON:03400352"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400960": {
+        "id": "FOODON:03400960",
+        "name": "cereal grain pulse s gs gpc",
+        "relations": {
+            "can_be": [
+                "FOODON:03400969"
+            ],
+            "is_a": [
+                "FOODON:03400874"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03400969": {
+        "id": "FOODON:03400969",
+        "name": "processed cereal s gs gpc",
+        "relations": {
+            "is_a": [
+                "FOODON:03400960"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03401061": {
+        "id": "FOODON:03401061",
+        "name": "prepared preserved s gs gpc",
+        "relations": {
+            "can_be": [
+                "FOODON:03401095"
+            ],
+            "is_a": [
+                "FOODON:03400874"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03401095": {
+        "id": "FOODON:03401095",
+        "name": "pasta noodles gs gpc",
+        "relations": {
+            "is_a": [
+                "FOODON:03401061"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03401270": {
+        "id": "FOODON:03401270",
+        "name": "u s code of federal regulations title type",
+        "relations": {
+            "can_be": [
+                "FOODON:03400164",
+                "FOODON:03400188",
+                "FOODON:03400257"
+            ],
+            "is_a": [
+                "FOODON:03400289"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411009": {
+        "id": "FOODON:03411009",
+        "name": "polysaccharide producing plant",
+        "relations": {
+            "can_be": [
+                "FOODON:03411016"
+            ],
+            "is_a": [
+                "FOODON:03411048"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411013": {
+        "id": "FOODON:03411013",
+        "name": "plant used for producing extract or concentrate",
+        "relations": {
+            "can_be": [
+                "FOODON:03411048"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411016": {
+        "id": "FOODON:03411016",
+        "name": "starch producing plant",
+        "relations": {
+            "can_be": [
+                "FOODON:03412344"
+            ],
+            "is_a": [
+                "FOODON:03411009"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411041": {
+        "id": "FOODON:03411041",
+        "name": "chemical component",
+        "relations": {
+            "can_be": [
+                "FOODON:03412972"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411048": {
+        "id": "FOODON:03411048",
+        "name": "carbohydrate producing plant",
+        "relations": {
+            "can_be": [
+                "FOODON:03411009"
+            ],
+            "is_a": [
+                "FOODON:03411013"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411140": {
+        "id": "FOODON:03411140",
+        "name": "fruit producing plant",
+        "relations": {
+            "can_be": [
+                "FOODON:03411283"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411261": {
+        "id": "FOODON:03411261",
+        "name": "fungus",
+        "relations": {
+            "can_be": [
+                "FOODON:03412035"
+            ],
+            "is_a": [
+                "FOODON:03411564"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411283": {
+        "id": "FOODON:03411283",
+        "name": "melon plant",
+        "relations": {
+            "can_be": [
+                "FOODON:00001155"
+            ],
+            "is_a": [
+                "FOODON:03411140",
+                "FOODON:03414459"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03411564": {
+        "id": "FOODON:03411564",
+        "name": "organismal source",
+        "relations": {
+            "can_be": [
+                "FOODON:03411261"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03412035": {
+        "id": "FOODON:03412035",
+        "name": "basidiomycetes",
+        "relations": {
+            "can_be": [
+                "FOODON:00001287"
+            ],
+            "is_a": [
+                "FOODON:03411261"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03412344": {
+        "id": "FOODON:03412344",
+        "name": "devils tongue plant",
+        "relations": {
+            "can_be": [
+                "FOODON:03412637"
+            ],
+            "is_a": [
+                "FOODON:03411016"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03412637": {
+        "id": "FOODON:03412637",
+        "name": "konjac plant",
+        "relations": {
+            "is_a": [
+                "FOODON:03412344"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03412972": {
+        "id": "FOODON:03412972",
+        "name": "additive",
+        "relations": {
+            "can_be": [
+                "FOODON:03460117"
+            ],
+            "is_a": [
+                "FOODON:03411041"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03413357": {
+        "id": "FOODON:03413357",
+        "name": "plant according to family",
+        "relations": {
+            "can_be": [
+                "FOODON:03414460"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03414459": {
+        "id": "FOODON:03414459",
+        "name": "cucumis species",
+        "relations": {
+            "can_be": [
+                "FOODON:03411283"
+            ],
+            "is_a": [
+                "FOODON:03414460"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03414460": {
+        "id": "FOODON:03414460",
+        "name": "gourd squash family",
+        "relations": {
+            "can_be": [
+                "FOODON:03414459"
+            ],
+            "is_a": [
+                "FOODON:03413357"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03420108": {
+        "id": "FOODON:03420108",
+        "name": "sugar",
+        "relations": {
+            "is_a": [
+                "FOODON:03420152"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03420152": {
+        "id": "FOODON:03420152",
+        "name": "carbohydrate extract concentrate or isolate",
+        "relations": {
+            "can_be": [
+                "FOODON:03420108"
+            ],
+            "is_a": [
+                "FOODON:03420228"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03420156": {
+        "id": "FOODON:03420156",
+        "name": "brown sugar",
+        "relations": {
+            "is_a": [
+                "FOODON:00001083",
+                "FOODON:03301073"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03420228": {
+        "id": "FOODON:03420228",
+        "name": "extract concentrate or isolate of plant or animal",
+        "relations": {
+            "can_be": [
+                "FOODON:00002664",
+                "FOODON:03420152"
+            ],
+            "is_a": [
+                "FOODON:00001714"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03420244": {
+        "id": "FOODON:03420244",
+        "name": "mammalian milk whey",
+        "relations": {
+            "is_a": [
+                "FOODON:03315150"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03420307": {
+        "id": "FOODON:03420307",
+        "name": "seed oil",
+        "relations": {
+            "can_be": [
+                "FOODON:00001088"
+            ],
+            "is_a": [
+                "FOODON:00001087"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03430109": {
+        "id": "FOODON:03430109",
+        "name": "liquid low viscosity",
+        "relations": {
+            "can_be": [
+                "FOODON:00001001"
+            ],
+            "is_a": [
+                "FOODON:03430130"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03430130": {
+        "id": "FOODON:03430130",
+        "name": "liquid",
+        "relations": {
+            "can_be": [
+                "FOODON:03430109"
+            ],
+            "is_a": [
+                "FOODON:00002454"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03460111": {
+        "id": "FOODON:03460111",
+        "name": "treatment process",
+        "relations": {
+            "can_be": [
+                "FOODON:03460225"
+            ],
+            "is_a": [
+                "FOODON:00002451"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03460117": {
+        "id": "FOODON:03460117",
+        "name": "flavor or taste ingredient",
+        "relations": {
+            "can_be": [
+                "FOODON:03460227"
+            ],
+            "is_a": [
+                "FOODON:03412972"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03460156": {
+        "id": "FOODON:03460156",
+        "name": "obsolete molasses added",
+        "relations": {},
+        "item": true
+    },
+    "FOODON:03460177": {
+        "id": "FOODON:03460177",
+        "name": "plant seed or nut",
+        "relations": {
+            "is_a": [
+                "FOODON:00001015"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03460225": {
+        "id": "FOODON:03460225",
+        "name": "component addition process",
+        "relations": {
+            "can_be": [
+                "FOODON:03460751"
+            ],
+            "is_a": [
+                "FOODON:03460111"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03460227": {
+        "id": "FOODON:03460227",
+        "name": "flavoring spice or herb",
+        "relations": {
+            "can_be": [
+                "FOODON:03460229"
+            ],
+            "is_a": [
+                "FOODON:03460117"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03460229": {
+        "id": "FOODON:03460229",
+        "name": "flavoring spice or herb natural",
+        "relations": {
+            "is_a": [
+                "FOODON:03460227"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03460231": {
+        "id": "FOODON:03460231",
+        "name": "chocolate or cocoa",
+        "relations": {
+            "is_a": [
+                "FOODON:00001215"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03460263": {
+        "id": "FOODON:03460263",
+        "name": "vegetable fat or oil",
+        "relations": {
+            "is_a": [
+                "FOODON:00001174"
+            ]
+        },
+        "item": true
+    },
+    "FOODON:03460751": {
+        "id": "FOODON:03460751",
+        "name": "leavening agent addition process",
+        "relations": {
+            "can_be": [
+                "FOODON:03460752"
+            ],
+            "is_a": [
+                "FOODON:03460225"
+            ]
+        },
+        "item": false
+    },
+    "FOODON:03460752": {
+        "id": "FOODON:03460752",
+        "name": "sourdough addition process",
+        "relations": {
+            "is_a": [
+                "FOODON:03460751"
+            ]
+        },
+        "item": true
+    }
+}
